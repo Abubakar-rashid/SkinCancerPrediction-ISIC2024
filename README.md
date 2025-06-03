@@ -12,10 +12,10 @@
 
     Achieved ROC-AUC: 0.11429 on evaluation set
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/156e57c6-f120-43e2-afa0-761345578b81" alt="ROC-AUC Score" width="400"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/156e57c6-f120-43e2-afa0-761345578b81" alt="ROC-AUC Score" width="700"/> </p>
 
 ## Download Pretrained Models
 
 ### The fine-tuned Keras models used in this project can be downloaded from the following Kaggle link:
 
-🔗 Kaggle - Skin Cancer Classification Models
+[🔗 Kaggle - Skin Cancer Classification Models](https://www.kaggle.com/models/adaisdiashdh/skincancer_classification/)
